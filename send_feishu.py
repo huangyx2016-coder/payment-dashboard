@@ -12,7 +12,7 @@ RECIPIENTS = [
 
 # Load data
 script_dir = os.path.dirname(os.path.abspath(__file__))
-with open(os.path.join(script_dir, "data", "0813.json"), "r", encoding="utf-8") as f:
+with open(os.path.join(script_dir, "data", "0827.json"), "r", encoding="utf-8") as f:
     d = json.load(f)
 
 grandC = grandE = grandF = rows = 0
@@ -38,7 +38,7 @@ def fmt(n):
     return sign + "$" + "{:,.2f}".format(n)
 
 
-msg = "💰 打款汇总 08/13\n\n"
+msg = "💰 打款汇总 08/27\n\n"
 msg += f"账户数: {rows}\n"
 msg += f"最近一次已打款合计: {fmt(grandC)}\n"
 msg += f"即将打款合计: {fmt(grandE)}\n"

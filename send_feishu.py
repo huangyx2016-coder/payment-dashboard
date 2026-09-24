@@ -10,10 +10,13 @@ RECIPIENTS = [
     ("Mark", "ou_44d1d3cbeb2e1829ddb5fa28351ecd89"),
 ]
 
-# Load data
+# Load data —— 取 index.json 最后一个日期，避免每次手改文件名
 script_dir = os.path.dirname(os.path.abspath(__file__))
-with open(os.path.join(script_dir, "data", "0910.json"), "r", encoding="utf-8") as f:
+with open(os.path.join(script_dir, "data", "index.json"), "r", encoding="utf-8") as f:
+    latest = json.load(f)[-1]
+with open(os.path.join(script_dir, "data", f"{latest}.json"), "r", encoding="utf-8") as f:
     d = json.load(f)
+print(f"通知数据: data/{latest}.json")
 
 grandC = grandE = grandF = rows = 0
 for sn, items in d["sheets"].items():
@@ -38,8 +41,8 @@ def fmt(n):
     return sign + "$" + "{:,.2f}".format(n)
 
 
-msg = "💰 打款汇总 09/10\n\n"
-msg += f"账户数: {rows}\n"
+msg = f"💰 打款汇总 {latest[:2]}/{latest[2:]}\n\n"
+msg += f"店铺数: {rows}\n"
 msg += f"最近一次已打款合计: {fmt(grandC)}\n"
 msg += f"即将打款合计: {fmt(grandE)}\n"
 msg += f"店铺余额合计: {fmt(grandF)}\n\n"

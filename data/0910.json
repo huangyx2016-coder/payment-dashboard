@@ -203,14 +203,6 @@
         "F": -11.55
       },
       {
-        "A": "大号-USESMTLE-阁阁-康鑫-美国",
-        "B": "A transfer was made to your bank account ending in 025 in the amount of $2,082.47 on 9/2/2026.",
-        "C": 2082.47,
-        "D": "09/16/2026",
-        "E": 903.89,
-        "F": 2854.94
-      },
-      {
         "A": "张淇婷+余泰-TKUTI-TG625-美本-US-耳环-US",
         "B": "Amount -$586.19 scheduled to be charged on 9/3/2026.",
         "C": -586.19,
@@ -349,10 +341,10 @@
       {
         "A": "合计",
         "B": "",
-        "C": 39397.26,
+        "C": 37314.79,
         "D": null,
-        "E": 33450.33,
-        "F": 118935.98
+        "E": 32546.44,
+        "F": 116081.04
       }
     ],
     "耳环账户": [
@@ -701,6 +693,14 @@
         "F": 5114.82
       },
       {
+        "A": "大号-USESMTLE-阁阁-康鑫-美国",
+        "B": "A transfer was made to your bank account ending in 025 in the amount of $2,082.47 on 9/2/2026.",
+        "C": 2082.47,
+        "D": "09/16/2026",
+        "E": 903.89,
+        "F": 2854.94
+      },
+      {
         "A": "大号-阁阁-Kelli Myers-广州杭骏",
         "B": "A transfer was made to your bank account ending in 110 in the amount of $3,150.91 on 9/9/2026.",
         "C": 3150.91,
@@ -815,10 +815,10 @@
       {
         "A": "合计",
         "B": "",
-        "C": 113065.54,
+        "C": 115148.01,
         "D": null,
-        "E": 47499.37,
-        "F": 138794.62
+        "E": 48403.26,
+        "F": 141649.56
       }
     ],
     "银饰账户": [

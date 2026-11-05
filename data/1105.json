@@ -1,0 +1,1383 @@
+{
+  "pull_time": "2026-11-05 17:01:05",
+  "sheets": {
+    "境外账户": [
+      {
+        "A": "陈燕华-nearland-TG407老号",
+        "B": "A transfer was made to your bank account ending in 225 in the amount of $6,472.78 on 11/3/2026.",
+        "C": 6472.78,
+        "D": "11/17/2026",
+        "E": 211.1,
+        "F": 6976.64
+      },
+      {
+        "A": "美本-陈燕华-YFdeSi-SS-TG387",
+        "B": "A transfer was made to your bank account ending in 563 in the amount of $3,739.84 on 11/3/2026.",
+        "C": 3739.84,
+        "D": "11/17/2026",
+        "E": 719.04,
+        "F": 3791.03
+      },
+      {
+        "A": "耳环-袁灿-RTDNX-hk-香港諾迅貿易有限公司",
+        "B": "A transfer was made to your bank account ending in 454 in the amount of $1,921.92 on 10/30/2026.",
+        "C": 1921.92,
+        "D": "11/13/2026",
+        "E": 323.89,
+        "F": 830.73
+      },
+      {
+        "A": "美本-袁灿-谢晓花-SS-TG411-深圳诚隆",
+        "B": "A transfer was made to your bank account ending in 834 in the amount of $418.89 on 10/26/2026.",
+        "C": 418.89,
+        "D": "11/09/2026",
+        "E": 430.92,
+        "F": 2743.71
+      },
+      {
+        "A": "美本-XtGiSo-袁灿-魏依婷-SS-TG579过视频巴基斯坦老店",
+        "B": "A transfer was made to your bank account ending in 392 in the amount of $195.00 on 11/4/2026.",
+        "C": 195,
+        "D": "11/18/2026",
+        "E": -68.07,
+        "F": 171.59
+      },
+      {
+        "A": "袁灿-HK-杨军军-香港速微貿易有限公司 新",
+        "B": "结算金额为$0.00（9/8/2026），无实际打款",
+        "C": 0,
+        "D": "待定",
+        "E": 135.61,
+        "F": 203.47
+      },
+      {
+        "A": "美本-郑晓琪-张云阳-Zikonyou-SS-TG435",
+        "B": "A transfer was made to your bank account ending in 933 in the amount of $17,034.68 on 10/27/2026.",
+        "C": 17034.68,
+        "D": "11/10/2026",
+        "E": 7688.18,
+        "F": 23538.72
+      },
+      {
+        "A": "美本-Puqollri-郑晓琪-魏依婷-SS-TG617",
+        "B": "A transfer was made to your bank account ending in 878 in the amount of $13,453.62 on 10/29/2026.",
+        "C": 13453.62,
+        "D": "11/12/2026",
+        "E": 3827.18,
+        "F": 11879.04
+      },
+      {
+        "A": "VBPTN-圣丹-张云阳-TG696-补巨盟汇- 过虚拟视频号",
+        "B": "Amount -$363.88 scheduled to be charged on 10/29/2026.",
+        "C": -363.88,
+        "D": "11/12/2026",
+        "E": -262.3,
+        "F": -45.77
+      },
+      {
+        "A": "美本-WuriSher-张淇婷-余泰-TG601",
+        "B": "结算金额为$0.00（10/31/2026），无实际打款",
+        "C": 0,
+        "D": "11/14/2026",
+        "E": 4235.44,
+        "F": 5489.29
+      },
+      {
+        "A": "美本-梁淑芬-张云阳-SparkSphere-SS-Tg461-补深圳博腾",
+        "B": "结算金额为$0.00（10/12/2026），无实际打款",
+        "C": 0,
+        "D": "待定",
+        "E": 3925.86,
+        "F": 3925.86
+      },
+      {
+        "A": "TG587-LFXVL-耳环-梁淑芬-倪家键",
+        "B": "结算金额为$0.00（9/24/2026），无实际打款",
+        "C": 0,
+        "D": "待定",
+        "E": 1955.66,
+        "F": 5310.33
+      },
+      {
+        "A": "YDKNA-潘靖琪-董晓乔-hk-香港鹏宇贸易有限公司",
+        "B": "A transfer was made to your bank account ending in 104 in the amount of $670.47 on 11/4/2026.",
+        "C": 670.47,
+        "D": "11/18/2026",
+        "E": 0,
+        "F": 214.97
+      },
+      {
+        "A": "白金项链-LTYFC-潘靖琪-张子韩-ss-TG735-Wahedi express llc",
+        "B": "A transfer was made to your bank account ending in 096 in the amount of $520.25 on 11/1/2026.",
+        "C": 520.25,
+        "D": "11/15/2026",
+        "E": -127.77,
+        "F": 722.6
+      },
+      {
+        "A": "美本-Maodeso-阁阁-谢晓花-SS-TG386-康鑫美本",
+        "B": "A transfer was made to your bank account ending in 922 in the amount of $18,845.04 on 10/28/2026.",
+        "C": 18845.04,
+        "D": "11/11/2026",
+        "E": 5243.9,
+        "F": 22437.93
+      },
+      {
+        "A": "美本-阁阁-谢晓花-USESMTLE-SS-TG400",
+        "B": "A transfer was made to your bank account ending in 353 in the amount of $15,214.68 on 10/27/2026.",
+        "C": 15214.68,
+        "D": "11/10/2026",
+        "E": 7475.24,
+        "F": 14317.35
+      },
+      {
+        "A": "NVKZG-阁阁-李嘉俊-TG652过视频老号",
+        "B": "A transfer was made to your bank account ending in 355 in the amount of $3,926.70 on 10/27/2026.",
+        "C": 3926.7,
+        "D": "11/10/2026",
+        "E": 295.91,
+        "F": 1812.05
+      },
+      {
+        "A": "美本-阁阁-云阳-Biipogn-TG576-手链",
+        "B": "A transfer was made to your bank account ending in 155 in the amount of $4,926.73 on 11/2/2026.",
+        "C": 4926.73,
+        "D": "11/16/2026",
+        "E": 1268.72,
+        "F": 4291.4
+      },
+      {
+        "A": "UJJT-熊燃-TG645过供应链巴铁老店铺",
+        "B": "结算金额为$0.00（10/31/2026），无实际打款",
+        "C": 0,
+        "D": "11/14/2026",
+        "E": 2775.49,
+        "F": 3236.84
+      },
+      {
+        "A": "韦婷婷-李詩婷-SM001-Rinponain-美本-补高杰",
+        "B": "A transfer was made to your bank account ending in 366 in the amount of $168.26 on 9/29/2026.",
+        "C": 168.26,
+        "D": "待定",
+        "E": 1198.88,
+        "F": 1447.49
+      },
+      {
+        "A": "韦婷婷-JPPHK-ss-TG651OS Professional Store",
+        "B": "Amount -$78.84 scheduled to be charged on 10/1/2026.",
+        "C": -78.84,
+        "D": "待定",
+        "E": 2929.08,
+        "F": 3740.16
+      },
+      {
+        "A": "美本-李舒瑶-倪家键-ADII-SS-TG544老号",
+        "B": "A transfer was made to your bank account ending in 366 in the amount of $1,792.72 on 11/3/2026.",
+        "C": 1792.72,
+        "D": "11/17/2026",
+        "E": 484.28,
+        "F": 4355.53
+      },
+      {
+        "A": "美本-李舒瑶-谢晓花-Yiidcii-SS-TG497老店铺",
+        "B": "A transfer was made to your bank account ending in 167 in the amount of $14,530.12 on 10/24/2026.",
+        "C": 14530.12,
+        "D": "11/07/2026",
+        "E": 7667.04,
+        "F": 17623.86
+      },
+      {
+        "A": "美本-李舒瑶-李嘉俊-GFKAP-TG693",
+        "B": "A transfer was made to your bank account ending in 742 in the amount of $501.69 on 10/29/2026.",
+        "C": 501.69,
+        "D": "11/12/2026",
+        "E": -82.15,
+        "F": 139.21
+      },
+      {
+        "A": "MKIGGN-杜颖思-谭晓琳-ss-TG723过视频老店铺",
+        "B": "A transfer was made to your bank account ending in 815 in the amount of $1,357.65 on 10/29/2026.",
+        "C": 1357.65,
+        "D": "11/12/2026",
+        "E": -147.85,
+        "F": 674.41
+      },
+      {
+        "A": "张淇婷+余泰-TKUTI-TG625-美本-US-耳环-US",
+        "B": "结算金额为$0.00（10/15/2026），无实际打款",
+        "C": 0,
+        "D": "待定",
+        "E": 1846.18,
+        "F": 1846.18
+      },
+      {
+        "A": "梁楚迎-余泰-HFDFC-TG748-美本-US-耳环-US",
+        "B": "A transfer was made to your bank account ending in 043 in the amount of $1,936.85 on 10/24/2026.",
+        "C": 1936.85,
+        "D": "11/07/2026",
+        "E": 274.13,
+        "F": 1277.53
+      },
+      {
+        "A": "陈燕华+倪家键-PMYTY-TG718-美本-US-耳环-US",
+        "B": "结算金额为$0.00（10/28/2026），无实际打款",
+        "C": 0,
+        "D": "11/11/2026",
+        "E": 2355.8,
+        "F": 2615.62
+      },
+      {
+        "A": "美本-舒瑶+谢晓花-PGKBM-TG810-us-耳环",
+        "B": "A transfer was made to your bank account ending in 531 in the amount of $417.30 on 11/3/2026.",
+        "C": 417.3,
+        "D": "11/17/2026",
+        "E": 276.44,
+        "F": 1559.46
+      },
+      {
+        "A": "胡鑫+未雨-YMGHR-TG594-美本-US-项链-US",
+        "B": "A transfer was made to your bank account ending in 068 in the amount of $2,513.66 on 10/22/2026.",
+        "C": 2513.66,
+        "D": "11/05/2026",
+        "E": 1109.94,
+        "F": 2765.23
+      },
+      {
+        "A": "圣丹-张未雨-KCGFB-SM004-美本-US-项链-US",
+        "B": "结算金额为$3,645.42（10/29/2026），无实际打款",
+        "C": 3645.42,
+        "D": "11/12/2026",
+        "E": 3454.02,
+        "F": 3514.49
+      },
+      {
+        "A": "圣丹-魏依婷-Qammlipe-SM003-美本-US-项链-US",
+        "B": "A transfer was made to your bank account ending in 420 in the amount of $611.31 on 10/26/2026.",
+        "C": 611.31,
+        "D": "11/09/2026",
+        "E": 42.16,
+        "F": 953.61
+      },
+      {
+        "A": "胡鑫+依婷-Aylnanbu-TG561-美本-US-项链-US",
+        "B": "Amount -$250.85 scheduled to be charged on 10/28/2026.",
+        "C": -250.85,
+        "D": "11/11/2026",
+        "E": 458.55,
+        "F": 2696.43
+      },
+      {
+        "A": "圣丹-魏依婷-WZPTH-TG825-美本-项链-US",
+        "B": "Amount -$165.50 scheduled to be charged on 11/1/2026.",
+        "C": -165.5,
+        "D": "11/15/2026",
+        "E": -305.11,
+        "F": 571.01
+      },
+      {
+        "A": "胡鑫+依婷-FTDHB-TG743-美本-US-项链-US-US",
+        "B": "A transfer was made to your bank account ending in 812 in the amount of $1,195.31 on 10/26/2026.",
+        "C": 1195.31,
+        "D": "11/09/2026",
+        "E": -143.3,
+        "F": 977.15
+      },
+      {
+        "A": "YPFBO-BB-梁楚迎-张未雨-SM101-项链-US",
+        "B": "Amount -$39.99 scheduled to be charged on 9/10/2026.",
+        "C": -39.99,
+        "D": "待定",
+        "E": -1.38,
+        "F": -1.38
+      },
+      {
+        "A": "梁淑芬+云阳-VPCDM--TG704-美本-粗链-US-US",
+        "B": "结算金额为$0.00（11/3/2026），无实际打款",
+        "C": 0,
+        "D": "11/17/2026",
+        "E": 7240.95,
+        "F": 10547.45
+      },
+      {
+        "A": "杜颖思+董晓乔-KHFBY-TG778-美本-US-耳环-U-US",
+        "B": "A transfer was made to your bank account ending in 811 in the amount of $3,325.23 on 10/22/2026.",
+        "C": 3325.23,
+        "D": "11/05/2026",
+        "E": 1154.22,
+        "F": 2437.66
+      },
+      {
+        "A": "郑阁婵+董晓乔-HRPVS-TG895-美本-US-耳环-US",
+        "B": "结算金额为$0.00（10/30/2026），无实际打款",
+        "C": 0,
+        "D": "11/13/2026",
+        "E": 126.85,
+        "F": 154.71
+      },
+      {
+        "A": "白金项链-MZZH-梁文雅-张子韩-hk-香港惠拓貿易有限公司-赵新波",
+        "B": "A transfer was made to your bank account ending in 455 in the amount of $1,081.83 on 10/26/2026.",
+        "C": 1081.83,
+        "D": "11/09/2026",
+        "E": 1224.21,
+        "F": 3029.4
+      },
+      {
+        "A": "白金项链-MTURG-梁文雅-杨涛-US",
+        "B": "A transfer was made to your bank account ending in 815 in the amount of $1,680.74 on 11/1/2026.",
+        "C": 1680.74,
+        "D": "11/15/2026",
+        "E": -90.37,
+        "F": 1023.08
+      },
+      {
+        "A": "NTBNG-项链-梁楚迎-张云阳-US",
+        "B": "A transfer was made to your bank account ending in 245 in the amount of $1,803.58 on 10/30/2026.",
+        "C": 1803.58,
+        "D": "11/13/2026",
+        "E": -1034.92,
+        "F": 1480.86
+      },
+      {
+        "A": "白金项链-NBYIV-梁文雅-李詩婷-EIN TEAMJOY MIDN-US",
+        "B": "Amount -$39.99 scheduled to be charged on 9/16/2026.",
+        "C": -39.99,
+        "D": "待定",
+        "E": -2.4,
+        "F": -2.4
+      },
+      {
+        "A": "HXTPS-US",
+        "B": "Amount -$100.75 scheduled to be charged on 11/5/2026.",
+        "C": -100.75,
+        "D": "11/19/2026",
+        "E": -100.75,
+        "F": -100.75
+      },
+      {
+        "A": "合计",
+        "B": "",
+        "C": 122862.47,
+        "D": null,
+        "E": 69988.5,
+        "F": 177173.78
+      }
+    ],
+    "耳环账户": [
+      {
+        "A": "大号-陈燕华-Fanglcy-深圳玺航",
+        "B": "A transfer was made to your bank account ending in 203 in the amount of $747.97 on 11/3/2026.",
+        "C": 747.97,
+        "D": "11/17/2026",
+        "E": -81.73,
+        "F": 366.4
+      },
+      {
+        "A": "大号-varger-陈燕华-浙江金华星锋",
+        "B": "A transfer was made to your bank account ending in 567 in the amount of $38.01 on 10/24/2026.",
+        "C": 38.01,
+        "D": "11/07/2026",
+        "E": 13.07,
+        "F": 1592.74
+      },
+      {
+        "A": "大号-AIGAMIT-陈燕华-帆顺伞业",
+        "B": "A transfer was made to your bank account ending in 428 in the amount of $603.43 on 10/29/2026.",
+        "C": 603.43,
+        "D": "11/12/2026",
+        "E": -423.35,
+        "F": 1304.47
+      },
+      {
+        "A": "大号-陈燕华-GIULIA LEONI-广州美豆科技有限公司",
+        "B": "A transfer was made to your bank account ending in 613 in the amount of $342.52 on 10/27/2026.",
+        "C": 342.52,
+        "D": "11/10/2026",
+        "E": -228.97,
+        "F": 68.92
+      },
+      {
+        "A": "大号-陈燕华-NEARLAND浩沧",
+        "B": "A transfer was made to your bank account ending in 942 in the amount of $4,749.48 on 11/4/2026.",
+        "C": 4749.48,
+        "D": "11/18/2026",
+        "E": 297.6,
+        "F": 4006.85
+      },
+      {
+        "A": "Lamdesa-陈燕华-临沂喜得",
+        "B": "A transfer was made to your bank account ending in 973 in the amount of $646.21 on 11/1/2026.",
+        "C": 646.21,
+        "D": "11/15/2026",
+        "E": 338.74,
+        "F": 1562.88
+      },
+      {
+        "A": "陈燕华-义乌辉刻-vuiikhir",
+        "B": "A transfer was made to your bank account ending in 212 in the amount of $961.17 on 10/30/2026.",
+        "C": 961.17,
+        "D": "11/13/2026",
+        "E": 308.94,
+        "F": 1287.89
+      },
+      {
+        "A": "陈燕华-菏泽水中花-替代梵简",
+        "B": "A transfer was made to your bank account ending in 868 in the amount of $790.40 on 11/4/2026.",
+        "C": 790.4,
+        "D": "11/18/2026",
+        "E": 249.42,
+        "F": 1522.37
+      },
+      {
+        "A": "Charmire-陈燕华",
+        "B": "A transfer was made to your bank account ending in 001 in the amount of $1,686.04 on 10/29/2026.",
+        "C": 1686.04,
+        "D": "11/12/2026",
+        "E": 315.8,
+        "F": 1564.74
+      },
+      {
+        "A": "balabelle-陈燕华-深圳荣千兴-耳环备用",
+        "B": "A transfer was made to your bank account ending in 057 in the amount of $2,224.06 on 10/28/2026.",
+        "C": 2224.06,
+        "D": "11/11/2026",
+        "E": 576.72,
+        "F": 1271.2
+      },
+      {
+        "A": "耳环-袁灿-COSSA-冠电电商",
+        "B": "A transfer was made to your bank account ending in 493 in the amount of $3,588.65 on 10/30/2026.",
+        "C": 3588.65,
+        "D": "11/13/2026",
+        "E": 1360.96,
+        "F": 3610.41
+      },
+      {
+        "A": "耳环-袁灿-SANDRA REDD-深圳诚隆",
+        "B": "A transfer was made to your bank account ending in 382 in the amount of $3,138.80 on 10/30/2026.",
+        "C": 3138.8,
+        "D": "11/13/2026",
+        "E": 1253.35,
+        "F": 2842.67
+      },
+      {
+        "A": "耳环-袁灿-Chantel Yorke-西安清宸",
+        "B": "A transfer was made to your bank account ending in 379 in the amount of $1,039.42 on 10/24/2026.",
+        "C": 1039.42,
+        "D": "11/07/2026",
+        "E": 1458.63,
+        "F": 2556.23
+      },
+      {
+        "A": "耳环-袁灿-SREEOWER-义乌斯锴",
+        "B": "A transfer was made to your bank account ending in 239 in the amount of $952.66 on 10/30/2026.",
+        "C": 952.66,
+        "D": "11/13/2026",
+        "E": 469.51,
+        "F": 1937.95
+      },
+      {
+        "A": "大号-郑晓琪-TAKUGI-浙江嘉兴",
+        "B": "Amount -$585.00 scheduled to be charged on 11/4/2026.",
+        "C": -585,
+        "D": "11/18/2026",
+        "E": -539.36,
+        "F": 126.96
+      },
+      {
+        "A": "郑晓琪-SPACMAG-山西疆海",
+        "B": "A transfer was made to your bank account ending in 012 in the amount of $623.79 on 11/3/2026.",
+        "C": 623.79,
+        "D": "11/17/2026",
+        "E": 239.56,
+        "F": 1629.14
+      },
+      {
+        "A": "郑晓琪-ENROSE-广州宏琪",
+        "B": "A transfer was made to your bank account ending in 971 in the amount of $1,483.90 on 10/27/2026.",
+        "C": 1483.9,
+        "D": "11/10/2026",
+        "E": 1277.42,
+        "F": 2724.72
+      },
+      {
+        "A": "大号-NICRET-Kate-郑晓琪-艾迪斯",
+        "B": "A transfer was made to your bank account ending in 586 in the amount of $2,451.94 on 11/4/2026.",
+        "C": 2451.94,
+        "D": "11/18/2026",
+        "E": 373.84,
+        "F": 2194.67
+      },
+      {
+        "A": "ESSIE",
+        "B": "Amount -$245.74 scheduled to be charged on 11/3/2026.",
+        "C": -245.74,
+        "D": "11/17/2026",
+        "E": 632.7,
+        "F": 2244.94
+      },
+      {
+        "A": "worfey-张淇婷-董晓乔-兰州沃飞",
+        "B": "A transfer was made to your bank account ending in 436 in the amount of $43.40 on 10/26/2026.",
+        "C": 43.4,
+        "D": "11/09/2026",
+        "E": 399.85,
+        "F": 678.05
+      },
+      {
+        "A": "BEAUSPA-张淇婷-董晓乔-深圳伊美风尚",
+        "B": "Amount -$245.73 scheduled to be charged on 10/27/2026.",
+        "C": -245.73,
+        "D": "11/10/2026",
+        "E": 3.64,
+        "F": 327.46
+      },
+      {
+        "A": "Cendyess-张淇婷-董晓乔-义乌层奕",
+        "B": "A transfer was made to your bank account ending in 886 in the amount of $365.84 on 10/30/2026.",
+        "C": 365.84,
+        "D": "11/13/2026",
+        "E": -248.92,
+        "F": -65.49
+      },
+      {
+        "A": "KKR-张淇婷-谭晓琳-深圳睿亿",
+        "B": "A transfer was made to your bank account ending in 519 in the amount of $664.26 on 11/1/2026.",
+        "C": 664.26,
+        "D": "11/15/2026",
+        "E": 160.26,
+        "F": 1052.87
+      },
+      {
+        "A": "张淇婷+谢晓花-YAUVC-US-耳环-东莞市美龚纳家居用品有限公司",
+        "B": "A transfer was made to your bank account ending in 400 in the amount of $4,378.19 on 10/29/2026.",
+        "C": 4378.19,
+        "D": "11/12/2026",
+        "E": 1166.6,
+        "F": 4063.04
+      },
+      {
+        "A": "张淇婷+谭晓琳-UUBUUCD-US-耳环-东莞市危顺翌五金制品有限公司",
+        "B": "A transfer was made to your bank account ending in 619 in the amount of $1,454.71 on 10/30/2026.",
+        "C": 1454.71,
+        "D": "11/13/2026",
+        "E": 801.93,
+        "F": 1949.34
+      },
+      {
+        "A": "张淇婷+董晓乔-PWQIEE-US-耳环-广州森磐建材有限公司",
+        "B": "A transfer was made to your bank account ending in 367 in the amount of $133.69 on 10/30/2026.",
+        "C": 133.69,
+        "D": "11/13/2026",
+        "E": 299.51,
+        "F": 429.62
+      },
+      {
+        "A": "杜颖思+谭晓琳-RAYSAM-US-耳环-东莞市璟泓俞工艺品有限公司",
+        "B": "A transfer was made to your bank account ending in 016 in the amount of $91.45 on 11/1/2026.",
+        "C": 91.45,
+        "D": "11/15/2026",
+        "E": -97.46,
+        "F": 421.23
+      },
+      {
+        "A": "杜颖思+董晓乔-Sincere-ljh-US-耳环-东莞市霍益祺汽车用品有限公司",
+        "B": "Amount -$73.06 scheduled to be charged on 10/29/2026.",
+        "C": -73.06,
+        "D": "11/12/2026",
+        "E": 176.22,
+        "F": 370.81
+      },
+      {
+        "A": "杜颖思-WISHMISS",
+        "B": "Amount -$188.06 scheduled to be charged on 11/3/2026.",
+        "C": -188.06,
+        "D": "11/17/2026",
+        "E": 0,
+        "F": 18.28
+      },
+      {
+        "A": "耳环-梁楚凝-CHLOÉ LOVETT-深圳诚创",
+        "B": "A transfer was made to your bank account ending in 160 in the amount of $1,128.80 on 10/25/2026.",
+        "C": 1128.8,
+        "D": "11/08/2026",
+        "E": -101.4,
+        "F": 2394.56
+      },
+      {
+        "A": "耳环-梁楚凝-Eterbeau-倪家键-深圳佳和",
+        "B": "A transfer was made to your bank account ending in 875 in the amount of $46.50 on 10/30/2026.",
+        "C": 46.5,
+        "D": "11/13/2026",
+        "E": 109.49,
+        "F": 559.59
+      },
+      {
+        "A": "耳环-梁楚凝-TECYOW-深圳欧伍",
+        "B": "Amount -$34.88 scheduled to be charged on 10/31/2026.",
+        "C": -34.88,
+        "D": "11/14/2026",
+        "E": -27.49,
+        "F": 472.05
+      },
+      {
+        "A": "大号-Amoxos-梁淑芬-倪家键-深圳宇珲",
+        "B": "A transfer was made to your bank account ending in 502 in the amount of $181.36 on 11/4/2026.",
+        "C": 181.36,
+        "D": "11/18/2026",
+        "E": 135.38,
+        "F": 1061.56
+      },
+      {
+        "A": "大号-梁淑芬-HOBATS-深圳美霸",
+        "B": "A transfer was made to your bank account ending in 683 in the amount of $1,602.31 on 10/25/2026.",
+        "C": 1602.31,
+        "D": "11/08/2026",
+        "E": 1338.54,
+        "F": 2651.4
+      },
+      {
+        "A": "大号-梁淑芬-BANGALO-太原佳胜",
+        "B": "A transfer was made to your bank account ending in 001 in the amount of $1,626.48 on 10/28/2026.",
+        "C": 1626.48,
+        "D": "11/11/2026",
+        "E": 918.63,
+        "F": 1751.76
+      },
+      {
+        "A": "潘靖琪+谭晓琳-Aolumio-US-耳环-广州维柒科技有限公司",
+        "B": "Amount -$39.35 scheduled to be charged on 10/25/2026.",
+        "C": -39.35,
+        "D": "11/08/2026",
+        "E": -37.85,
+        "F": 74.53
+      },
+      {
+        "A": "大号-阁阁-JADEKOS-义乌震薪",
+        "B": "A transfer was made to your bank account ending in 992 in the amount of $349.36 on 10/28/2026.",
+        "C": 349.36,
+        "D": "11/11/2026",
+        "E": 887.35,
+        "F": 2715.73
+      },
+      {
+        "A": "大号-阁阁-SPOINT-仙游大贤",
+        "B": "A transfer was made to your bank account ending in 201 in the amount of $413.19 on 10/28/2026.",
+        "C": 413.19,
+        "D": "11/11/2026",
+        "E": -88.76,
+        "F": 92.67
+      },
+      {
+        "A": "A-大号-AMELINE-阁阁-宁波逸购",
+        "B": "A transfer was made to your bank account ending in 901 in the amount of $2,888.80 on 11/2/2026.",
+        "C": 2888.8,
+        "D": "11/16/2026",
+        "E": -176.07,
+        "F": 950.29
+      },
+      {
+        "A": "A-大号-阁阁-KATIE OTTE-新九州",
+        "B": "A transfer was made to your bank account ending in 680 in the amount of $2,001.94 on 10/27/2026.",
+        "C": 2001.94,
+        "D": "11/10/2026",
+        "E": 959.47,
+        "F": 2970.99
+      },
+      {
+        "A": "A-大号-阁阁-GLOSOLE-晶华光彩",
+        "B": "Amount -$1,680.11 scheduled to be charged on 11/2/2026.",
+        "C": -1680.11,
+        "D": "11/16/2026",
+        "E": -1414.18,
+        "F": -248.27
+      },
+      {
+        "A": "大号-阁阁-ELEBEST-深圳贝思特",
+        "B": "A transfer was made to your bank account ending in 783 in the amount of $3,391.50 on 10/27/2026.",
+        "C": 3391.5,
+        "D": "11/10/2026",
+        "E": 1204.42,
+        "F": 2654.51
+      },
+      {
+        "A": "大号-KFERAXSZ-阁阁-苏州曼珂",
+        "B": "A transfer was made to your bank account ending in 871 in the amount of $2,367.92 on 11/2/2026.",
+        "C": 2367.92,
+        "D": "11/16/2026",
+        "E": 553.09,
+        "F": 2269.24
+      },
+      {
+        "A": "大号-USESMTLE-阁阁-康鑫-美国",
+        "B": "A transfer was made to your bank account ending in 025 in the amount of $588.93 on 10/28/2026.",
+        "C": 588.93,
+        "D": "11/11/2026",
+        "E": 606.59,
+        "F": 1973.36
+      },
+      {
+        "A": "大号-阁阁-Kelli Myers-广州杭骏",
+        "B": "A transfer was made to your bank account ending in 110 in the amount of $930.70 on 11/4/2026.",
+        "C": 930.7,
+        "D": "11/18/2026",
+        "E": 187.83,
+        "F": 1616.11
+      },
+      {
+        "A": "阁阁-倪家键-Eloqueen-义乌北摩",
+        "B": "A transfer was made to your bank account ending in 078 in the amount of $983.31 on 10/25/2026.",
+        "C": 983.31,
+        "D": "11/08/2026",
+        "E": 1213.59,
+        "F": 2733.53
+      },
+      {
+        "A": "阁阁+余泰-Fureylenx-珠海福睿-耳环",
+        "B": "A transfer was made to your bank account ending in 556 in the amount of $5,282.45 on 11/3/2026.",
+        "C": 5282.45,
+        "D": "11/17/2026",
+        "E": 874.47,
+        "F": 4853.32
+      },
+      {
+        "A": "LISHUIHAOMI-江西恒掌-阁阁",
+        "B": "A transfer was made to your bank account ending in 646 in the amount of $1,518.87 on 10/27/2026.",
+        "C": 1518.87,
+        "D": "11/10/2026",
+        "E": 128.05,
+        "F": 988.76
+      },
+      {
+        "A": "ongol-深圳馨源电子商务",
+        "B": "A transfer was made to your bank account ending in 552 in the amount of $331.62 on 10/24/2026.",
+        "C": 331.62,
+        "D": "11/07/2026",
+        "E": -369.88,
+        "F": 139.96
+      },
+      {
+        "A": "ALUUYANN-熊燃-履宇科技",
+        "B": "A transfer was made to your bank account ending in 534 in the amount of $510.87 on 10/27/2026.",
+        "C": 510.87,
+        "D": "11/10/2026",
+        "E": 1369.38,
+        "F": 3722.31
+      },
+      {
+        "A": "熊燃-Yezhenhan-US-耳环-东莞市旭一光家具有限公司",
+        "B": "A transfer was made to your bank account ending in 316 in the amount of $103.66 on 10/27/2026.",
+        "C": 103.66,
+        "D": "11/10/2026",
+        "E": 18.35,
+        "F": 1133.3
+      },
+      {
+        "A": "熊燃-kvvkii-US-耳环-南阳浩禾网络科技有限公司",
+        "B": "A transfer was made to your bank account ending in 427 in the amount of $3,556.12 on 10/26/2026.",
+        "C": 3556.12,
+        "D": "11/09/2026",
+        "E": 2668.31,
+        "F": 6303.23
+      },
+      {
+        "A": "大号-李舒瑶-degerde-东莞市涛统贸易有限公司",
+        "B": "A transfer was made to your bank account ending in 228 in the amount of $1,777.55 on 10/28/2026.",
+        "C": 1777.55,
+        "D": "11/11/2026",
+        "E": 628.12,
+        "F": 1575.29
+      },
+      {
+        "A": "大号--Verniflloga-李舒瑶-深圳一枝玫科技有限公司",
+        "B": "A transfer was made to your bank account ending in 511 in the amount of $2,586.77 on 10/28/2026.",
+        "C": 2586.77,
+        "D": "11/11/2026",
+        "E": 364.31,
+        "F": 2125.55
+      },
+      {
+        "A": "大号-李舒瑶-DZCYAN-东莞市煦烈伟体育用品有限公司",
+        "B": "A transfer was made to your bank account ending in 028 in the amount of $268.52 on 10/29/2026.",
+        "C": 268.52,
+        "D": "11/12/2026",
+        "E": 713.05,
+        "F": 2317.31
+      },
+      {
+        "A": "大号-李舒瑶-GIORGIA GIBBS-深圳快车",
+        "B": "A transfer was made to your bank account ending in 913 in the amount of $1,917.39 on 11/4/2026.",
+        "C": 1917.39,
+        "D": "11/18/2026",
+        "E": 101.79,
+        "F": 1360.21
+      },
+      {
+        "A": "大号-李舒瑶-Aidomiya-东莞市文耀家具有限公司",
+        "B": "A transfer was made to your bank account ending in 324 in the amount of $1,419.46 on 10/28/2026.",
+        "C": 1419.46,
+        "D": "11/11/2026",
+        "E": 599.82,
+        "F": 920.92
+      },
+      {
+        "A": "梁楚迎+余泰-Selroper-US-耳环-深圳市浩塽贸易有限公司",
+        "B": "Amount -$23.23 scheduled to be charged on 11/3/2026.",
+        "C": -23.23,
+        "D": "11/17/2026",
+        "E": -69.04,
+        "F": 894.61
+      },
+      {
+        "A": "合计",
+        "B": "",
+        "C": 67859.21,
+        "D": null,
+        "E": 23849.84,
+        "F": 96689.74
+      }
+    ],
+    "银饰账户": [
+      {
+        "A": "BlingGem US",
+        "B": "A transfer was made to your bank account ending in 001 in the amount of $232.94 on 11/3/2026.",
+        "C": 232.94,
+        "D": "11/17/2026",
+        "E": -52.92,
+        "F": 685.39
+      },
+      {
+        "A": "BlingGem CA",
+        "B": "A transfer was made to your bank account ending in 001 in the amount of $70.60 on 11/3/2026.",
+        "C": 70.6,
+        "D": "11/17/2026",
+        "E": 110.09,
+        "F": null
+      },
+      {
+        "A": "BlingGem UK",
+        "B": "Amount -$10.62 scheduled to be charged on 10/14/2026.",
+        "C": -10.62,
+        "D": "待定",
+        "E": -21.22,
+        "F": null
+      },
+      {
+        "A": "BlingGem DE",
+        "B": "Amount -$4.00 scheduled to be charged on 10/31/2026.",
+        "C": -4,
+        "D": "11/14/2026",
+        "E": 0,
+        "F": null
+      },
+      {
+        "A": "BlingGem FR",
+        "B": "Amount -$6.50 scheduled to be charged on 11/2/2026.",
+        "C": -6.5,
+        "D": "11/16/2026",
+        "E": 0,
+        "F": null
+      },
+      {
+        "A": "BlingGem ES",
+        "B": "Amount -$0.56 scheduled to be charged on 11/2/2026.",
+        "C": -0.56,
+        "D": "11/16/2026",
+        "E": 0,
+        "F": null
+      },
+      {
+        "A": "BillieBijoux-US",
+        "B": "A transfer was made to your bank account ending in 0005 in the amount of $1,147.13 on 11/2/2026.",
+        "C": 1147.13,
+        "D": "11/16/2026",
+        "E": 388.31,
+        "F": 1637.88
+      },
+      {
+        "A": "BillieBijoux-CA",
+        "B": "A transfer was made to your bank account ending in 886 in the amount of $689.86 on 10/29/2026.",
+        "C": 689.86,
+        "D": "11/12/2026",
+        "E": 6.02,
+        "F": 253.81
+      },
+      {
+        "A": "大号-Van Chloe-US",
+        "B": "Amount -$104.06 scheduled to be charged on 10/24/2026.",
+        "C": -104.06,
+        "D": "11/07/2026",
+        "E": -150.5,
+        "F": 857.56
+      },
+      {
+        "A": "大号-Van Chloe-CA",
+        "B": "A transfer was made to your bank account ending in 081 in the amount of $795.65 on 10/24/2026.",
+        "C": 795.65,
+        "D": "11/07/2026",
+        "E": -78.94,
+        "F": null
+      },
+      {
+        "A": "Billie Bijoux DE",
+        "B": "Amount -$4.45 scheduled to be charged on 10/22/2026.",
+        "C": -4.45,
+        "D": "11/05/2026",
+        "E": -4.82,
+        "F": null
+      },
+      {
+        "A": "Billie Bijoux FR",
+        "B": "结算金额为$0.00（10/22/2026），无实际打款",
+        "C": 0,
+        "D": "11/05/2026",
+        "E": 32.92,
+        "F": null
+      },
+      {
+        "A": "Billie Bijoux ES",
+        "B": "Amount -$0.53 scheduled to be charged on 10/22/2026.",
+        "C": -0.53,
+        "D": "11/05/2026",
+        "E": 0,
+        "F": null
+      },
+      {
+        "A": "Billie Bijoux UK",
+        "B": "Amount -$8.38 scheduled to be charged on 10/8/2026.",
+        "C": -8.38,
+        "D": "待定",
+        "E": -11.17,
+        "F": null
+      },
+      {
+        "A": "NINAMAID-US",
+        "B": "A transfer was made to your bank account ending in 002 in the amount of $3,498.52 on 10/25/2026.",
+        "C": 3498.52,
+        "D": "11/08/2026",
+        "E": 1258.39,
+        "F": 7441.42
+      },
+      {
+        "A": "NINAMAID-CA",
+        "B": "A transfer was made to your bank account ending in 002 in the amount of $2,370.98 on 10/24/2026.",
+        "C": 2370.98,
+        "D": "11/07/2026",
+        "E": 1117.52,
+        "F": null
+      },
+      {
+        "A": "ANNIS MUNN-US",
+        "B": "A transfer was made to your bank account ending in 650 in the amount of $2,239.18 on 10/30/2026.",
+        "C": 2239.18,
+        "D": "11/13/2026",
+        "E": 1137.58,
+        "F": 5775.4
+      },
+      {
+        "A": "ANNIS MUNN-CA",
+        "B": "A transfer was made to your bank account ending in 650 in the amount of $953.61 on 10/24/2026.",
+        "C": 953.61,
+        "D": "11/07/2026",
+        "E": 711.63,
+        "F": null
+      },
+      {
+        "A": "LIEBLICH-US",
+        "B": "A transfer was made to your bank account ending in 034 in the amount of $906.88 on 10/31/2026.",
+        "C": 906.88,
+        "D": "11/14/2026",
+        "E": -189.81,
+        "F": 194.28
+      },
+      {
+        "A": "LIEBLICH-CA",
+        "B": "Amount -$33.04 scheduled to be charged on 10/21/2026.",
+        "C": -33.04,
+        "D": "待定",
+        "E": 0,
+        "F": 0
+      },
+      {
+        "A": "Annamate-US",
+        "B": "A transfer was made to your bank account ending in 007 in the amount of $4,721.18 on 10/24/2026.",
+        "C": 4721.18,
+        "D": "11/07/2026",
+        "E": 1935.82,
+        "F": 4331.4
+      },
+      {
+        "A": "CHICLOVE-US",
+        "B": "A transfer was made to your bank account ending in 391 in the amount of $283.52 on 11/3/2026.",
+        "C": 283.52,
+        "D": "11/17/2026",
+        "E": 89,
+        "F": 333.75
+      },
+      {
+        "A": "CHICLOVE-CA",
+        "B": "Amount -$1.78 scheduled to be charged on 11/3/2026.",
+        "C": -1.78,
+        "D": "11/17/2026",
+        "E": -1.25,
+        "F": 52.51
+      },
+      {
+        "A": "Amoraime-us",
+        "B": "A transfer was made to your bank account ending in 0004 in the amount of $6,096.12 on 10/23/2026.",
+        "C": 6096.12,
+        "D": "11/06/2026",
+        "E": 4903.11,
+        "F": 9319.36
+      },
+      {
+        "A": "Amoraime-ca",
+        "B": "Amount -$11.91 scheduled to be charged on 11/3/2026.",
+        "C": -11.91,
+        "D": "11/17/2026",
+        "E": 0,
+        "F": null
+      },
+      {
+        "A": "合计",
+        "B": "",
+        "C": 23820.34,
+        "D": null,
+        "E": 11179.76,
+        "F": 30882.76
+      }
+    ],
+    "手链": [
+      {
+        "A": "手链-MELELIFE-袁灿-魏依婷-深圳晶美",
+        "B": "A transfer was made to your bank account ending in 649 in the amount of $1,669.89 on 10/27/2026.",
+        "C": 1669.89,
+        "D": "11/10/2026",
+        "E": 1185.54,
+        "F": 2651.84
+      },
+      {
+        "A": "手链-STREYANT-袁灿-张未雨-深圳盈袖",
+        "B": "A transfer was made to your bank account ending in 972 in the amount of $845.96 on 10/26/2026.",
+        "C": 845.96,
+        "D": "11/09/2026",
+        "E": 441.27,
+        "F": 885.51
+      },
+      {
+        "A": "手链-KHFGDS-袁灿-李詩婷-深圳轩翠",
+        "B": "A transfer was made to your bank account ending in 881 in the amount of $2,511.82 on 11/4/2026.",
+        "C": 2511.82,
+        "D": "11/18/2026",
+        "E": 363.76,
+        "F": 1819.48
+      },
+      {
+        "A": "FEGER-郑晓琪-原Divas-US",
+        "B": "A transfer was made to your bank account ending in 110 in the amount of $671.35 on 10/26/2026.",
+        "C": 671.35,
+        "D": "11/09/2026",
+        "E": 1231.8,
+        "F": 3475.67
+      },
+      {
+        "A": "KYAYE-郑晓琪-泉州兴圣",
+        "B": "Amount -$253.62 scheduled to be charged on 11/4/2026.",
+        "C": -253.62,
+        "D": "11/18/2026",
+        "E": -15.23,
+        "F": 1119.98
+      },
+      {
+        "A": "CISSIEPERAL-郑晓琪-南京艾璟",
+        "B": "A transfer was made to your bank account ending in 335 in the amount of $4,166.07 on 10/28/2026.",
+        "C": 4166.07,
+        "D": "11/11/2026",
+        "E": 2646.48,
+        "F": 6684.7
+      },
+      {
+        "A": "LEMKAY-郑晓琪-深圳谷琪",
+        "B": "A transfer was made to your bank account ending in 783 in the amount of $85.01 on 11/4/2026.",
+        "C": 85.01,
+        "D": "11/18/2026",
+        "E": 183.14,
+        "F": 1186.89
+      },
+      {
+        "A": "梁文雅-李詩婷-tuoixpi-手链-东莞市洪煦闽家居用品有限公司-US",
+        "B": "A transfer was made to your bank account ending in 581 in the amount of $259.55 on 10/27/2026.",
+        "C": 259.55,
+        "D": "11/10/2026",
+        "E": 478.68,
+        "F": 901.06
+      },
+      {
+        "A": "手链-CANNCI-梁楚凝-张未雨",
+        "B": "A transfer was made to your bank account ending in 956 in the amount of $1,712.16 on 10/25/2026.",
+        "C": 1712.16,
+        "D": "11/08/2026",
+        "E": 886.3,
+        "F": 2245.8
+      },
+      {
+        "A": "手链-BENOITE-梁楚凝-张云阳",
+        "B": "A transfer was made to your bank account ending in 241 in the amount of $1,971.85 on 10/27/2026.",
+        "C": 1971.85,
+        "D": "11/10/2026",
+        "E": 1081,
+        "F": 2730.52
+      },
+      {
+        "A": "手链-AOZELAN-梁楚凝-张云阳-源达",
+        "B": "A transfer was made to your bank account ending in 676 in the amount of $435.18 on 10/26/2026.",
+        "C": 435.18,
+        "D": "11/09/2026",
+        "E": 391.78,
+        "F": 1504.53
+      },
+      {
+        "A": "Naiswan-梁楚凝-张未雨-中山奈斯",
+        "B": "A transfer was made to your bank account ending in 017 in the amount of $243.36 on 11/3/2026.",
+        "C": 243.36,
+        "D": "11/17/2026",
+        "E": 159.17,
+        "F": 742.84
+      },
+      {
+        "A": "大号-梁淑芬-OLD RUBIN-深圳晶荣",
+        "B": "A transfer was made to your bank account ending in 445 in the amount of $294.98 on 10/25/2026.",
+        "C": 294.98,
+        "D": "11/08/2026",
+        "E": 694.03,
+        "F": 1592.94
+      },
+      {
+        "A": "淑芬+未雨-LOKFAM-广州亿卓",
+        "B": "A transfer was made to your bank account ending in 285 in the amount of $1,269.26 on 10/25/2026.",
+        "C": 1269.26,
+        "D": "11/08/2026",
+        "E": -199.88,
+        "F": 2772.72
+      },
+      {
+        "A": "淑芬＋依婷-HIROM JOINS-增充商贸",
+        "B": "A transfer was made to your bank account ending in 206 in the amount of $2,054.60 on 10/25/2026.",
+        "C": 2054.6,
+        "D": "11/08/2026",
+        "E": 1381.68,
+        "F": 3480.41
+      },
+      {
+        "A": "胡鑫＋依婷-Moonfox-US-手链-深圳市屹星商贸有限公司",
+        "B": "A transfer was made to your bank account ending in 362 in the amount of $2,979.15 on 10/24/2026.",
+        "C": 2979.15,
+        "D": "11/07/2026",
+        "E": 1206.14,
+        "F": 2483.89
+      },
+      {
+        "A": "胡鑫＋云阳-ERIN MARIE-US-手链-东莞市宗允影家居用品有限公司",
+        "B": "A transfer was made to your bank account ending in 444 in the amount of $567.05 on 10/28/2026.",
+        "C": 567.05,
+        "D": "11/11/2026",
+        "E": 85.68,
+        "F": 1112.26
+      },
+      {
+        "A": "胡鑫＋旋颖-YIYEPUTI-US-手链-广州云岚户外用品有限公司",
+        "B": "A transfer was made to your bank account ending in 071 in the amount of $1,015.37 on 10/26/2026.",
+        "C": 1015.37,
+        "D": "11/09/2026",
+        "E": 80.4,
+        "F": 188.66
+      },
+      {
+        "A": "胡鑫＋未雨-EYUMOI-US-手链-广州奔富商贸有限公司",
+        "B": "A transfer was made to your bank account ending in 967 in the amount of $1,705.88 on 10/26/2026.",
+        "C": 1705.88,
+        "D": "11/09/2026",
+        "E": 519.29,
+        "F": 1506.72
+      },
+      {
+        "A": "胡鑫＋子韩-Yzytdgzy-US-手链-深圳市顾不暇接电子商贸有限公司",
+        "B": "A transfer was made to your bank account ending in 870 in the amount of $1,326.52 on 11/4/2026.",
+        "C": 1326.52,
+        "D": "11/18/2026",
+        "E": 274.84,
+        "F": 2060.37
+      },
+      {
+        "A": "韦婷婷-张云阳-BYBAIZ-手链-深圳市诺美志科技有限公司-US",
+        "B": "A transfer was made to your bank account ending in 166 in the amount of $676.88 on 10/30/2026.",
+        "C": 676.88,
+        "D": "11/13/2026",
+        "E": 502,
+        "F": 1128.56
+      },
+      {
+        "A": "白金项链-Qeces-韦婷婷-杨涛-心宝电子",
+        "B": "A transfer was made to your bank account ending in 508 in the amount of $5,427.92 on 10/26/2026.",
+        "C": 5427.92,
+        "D": "11/09/2026",
+        "E": 2235.86,
+        "F": 4720.24
+      },
+      {
+        "A": "合计",
+        "B": "",
+        "C": 31636.19,
+        "D": null,
+        "E": 15813.73,
+        "F": 46995.59
+      }
+    ],
+    "项链.戒指": [
+      {
+        "A": "项链-PPRLIFE-袁灿-魏依婷-台州普莱",
+        "B": "A transfer was made to your bank account ending in 048 in the amount of $3,037.94 on 10/27/2026.",
+        "C": 3037.94,
+        "D": "11/10/2026",
+        "E": 1049.45,
+        "F": 4538.49
+      },
+      {
+        "A": "gcwen-袁灿-广州诚隆-替代豪鑫",
+        "B": "A transfer was made to your bank account ending in 998 in the amount of $2,577.19 on 10/27/2026.",
+        "C": 2577.19,
+        "D": "11/10/2026",
+        "E": 1383.77,
+        "F": 2875.16
+      },
+      {
+        "A": "项链-袁灿-杨涛-Luxcuty-深圳市康乐之鹏电子商务有限公司",
+        "B": "A transfer was made to your bank account ending in 348 in the amount of $7,662.35 on 10/31/2026.",
+        "C": 7662.35,
+        "D": "11/14/2026",
+        "E": 3164.41,
+        "F": 7613.2
+      },
+      {
+        "A": "JUHEUS-郑晓琪-深圳具和",
+        "B": "A transfer was made to your bank account ending in 277 in the amount of $6,380.59 on 10/28/2026.",
+        "C": 6380.59,
+        "D": "11/11/2026",
+        "E": 2859.22,
+        "F": 7455.06
+      },
+      {
+        "A": "KROMPG-郑晓琪-长春太发",
+        "B": "A transfer was made to your bank account ending in 801 in the amount of $1,061.13 on 10/25/2026.",
+        "C": 1061.13,
+        "D": "11/08/2026",
+        "E": 2558.4,
+        "F": 3618.78
+      },
+      {
+        "A": "圣丹-未雨-iSunat-US-项链-东莞市祁直禹工艺品有限公司",
+        "B": "A transfer was made to your bank account ending in 184 in the amount of $881.03 on 10/24/2026.",
+        "C": 881.03,
+        "D": "11/07/2026",
+        "E": 437.11,
+        "F": 2086.45
+      },
+      {
+        "A": "梁文雅-张子韩-TOBENO-吊坠-魏县吉远贸易有限责任公司-US",
+        "B": "A transfer was made to your bank account ending in 428 in the amount of $2,387.44 on 10/27/2026.",
+        "C": 2387.44,
+        "D": "11/10/2026",
+        "E": 1278.95,
+        "F": 2724.65
+      },
+      {
+        "A": "项链-Rewizoo-梁楚凝-张未雨-汕头欧奇",
+        "B": "A transfer was made to your bank account ending in 269 in the amount of $6,443.40 on 10/23/2026.",
+        "C": 6443.4,
+        "D": "11/06/2026",
+        "E": 3772.26,
+        "F": 9075.14
+      },
+      {
+        "A": "MONA MILANI-梁淑芬-张云阳-大号-深圳乾湾",
+        "B": "A transfer was made to your bank account ending in 544 in the amount of $6,266.98 on 10/23/2026.",
+        "C": 6266.98,
+        "D": "11/06/2026",
+        "E": 1910.48,
+        "F": 6381.23
+      },
+      {
+        "A": "PESFIOLO-梁淑芬-张云阳-合肥泉衍",
+        "B": "A transfer was made to your bank account ending in 314 in the amount of $737.12 on 11/3/2026.",
+        "C": 737.12,
+        "D": "11/17/2026",
+        "E": 339.42,
+        "F": 3662.36
+      },
+      {
+        "A": "项链-梁淑芬-张云阳-ckuscapo-邯郸鑫荣",
+        "B": "A transfer was made to your bank account ending in 554 in the amount of $6,421.04 on 10/25/2026.",
+        "C": 6421.04,
+        "D": "11/08/2026",
+        "E": 3637.9,
+        "F": 8434.11
+      },
+      {
+        "A": "潘靖琪-李詩婷-ODIHUI-US-白金项链-广州飞翔户外用品有限公司",
+        "B": "A transfer was made to your bank account ending in 935 in the amount of $649.46 on 10/26/2026.",
+        "C": 649.46,
+        "D": "11/09/2026",
+        "E": 620.89,
+        "F": 1365.64
+      },
+      {
+        "A": "胡鑫＋依婷-WONRUN-US-项链-杭州万茂易进出口有限责任公司",
+        "B": "A transfer was made to your bank account ending in 939 in the amount of $5,168.32 on 10/25/2026.",
+        "C": 5168.32,
+        "D": "11/08/2026",
+        "E": 1965.32,
+        "F": 4944.43
+      },
+      {
+        "A": "胡鑫+詩婷-LOUISE VELLA-US-吊坠-深圳市维拉电子商务有限公司",
+        "B": "A transfer was made to your bank account ending in 127 in the amount of $5,183.27 on 10/26/2026.",
+        "C": 5183.27,
+        "D": "11/09/2026",
+        "E": 2897.46,
+        "F": 6625.53
+      },
+      {
+        "A": "吊坠-FENMI-深圳金蔚-韦婷婷-张子韩",
+        "B": "A transfer was made to your bank account ending in 758 in the amount of $1,033.53 on 11/2/2026.",
+        "C": 1033.53,
+        "D": "11/16/2026",
+        "E": -57.23,
+        "F": 1221.09
+      },
+      {
+        "A": "韦婷婷-杨涛-koolfin-吊坠-义乌市坦坤电子商务有限公司-US",
+        "B": "A transfer was made to your bank account ending in 249 in the amount of $764.70 on 10/25/2026.",
+        "C": 764.7,
+        "D": "11/08/2026",
+        "E": 700.85,
+        "F": 2599.25
+      },
+      {
+        "A": "韦婷婷-杨涛-MISSZHI-吊坠-嵊州市剑侠电子商务有限公司-US",
+        "B": "A transfer was made to your bank account ending in 493 in the amount of $207.06 on 10/28/2026.",
+        "C": 207.06,
+        "D": "11/11/2026",
+        "E": -44.51,
+        "F": 635.94
+      },
+      {
+        "A": "合计",
+        "B": "",
+        "C": 56862.55,
+        "D": null,
+        "E": 28474.15,
+        "F": 75856.51
+      }
+    ]
+  }
+}

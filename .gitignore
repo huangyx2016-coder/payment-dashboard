@@ -5,3 +5,7 @@ __pycache__/
 # 服务端专用脚本，不上传仓库（2026-11-09）
 send_feishu.py
 excel_to_payment_json.py
+
+# 2026-11-09 打款看板迁到 https://ops.jewelaurea.com/payment（需登录），页面/数据不再公开
+payment.html
+data/

@@ -9,3 +9,5 @@ excel_to_payment_json.py
 # 2026-11-09 打款看板迁到 https://ops.jewelaurea.com/payment（需登录），页面/数据不再公开
 payment.html
 data/
+send_feishu.py
+excel_to_payment_json.py

@@ -1,3 +1,7 @@
 __pycache__/
 *.pyc
 .DS_Store
+
+# 服务端专用脚本，不上传仓库（2026-11-09）
+send_feishu.py
+excel_to_payment_json.py
